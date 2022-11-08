@@ -52,7 +52,9 @@
 <div class="jumbotron">
     <div class="container">
         <h1>Congratulations..! You have successfully deployed web application</h1>
-        <p> <b>---ABHIJEET KARLEKAR (BE-IT *DevOps Engineer)</b></p>
+        <p> style="color:#46C7C7;">This is a paragraph.</p>
+        
+        <p><b>---ABHIJEET KARLEKAR (BE-IT *DevOps Engineer*)</b></p>
         <p><a class="btn btn-primary btn-lg" role="button">Learn more &raquo;</a></p>
     </div>
 </div>
