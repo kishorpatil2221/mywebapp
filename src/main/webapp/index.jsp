@@ -51,7 +51,7 @@
 <!-- Main jumbotron for a primary marketing message or call to action -->
 <div class="jumbotron">
     <div class="container">
-        <h1><p style="color:#306754;">Congratulations..! You have successfully deployed web application</p></h1>
+        <h1>Congratulations..! You have successfully deployed web application</h1>
         
         <p><b>---ABHIJEET KARLEKAR (BE-IT *DevOps Engineer*)</b></p>
         <p><a class="btn btn-primary btn-lg" role="button">Know more about me&raquo;</a></p>
