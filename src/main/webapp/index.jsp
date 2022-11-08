@@ -51,11 +51,10 @@
 <!-- Main jumbotron for a primary marketing message or call to action -->
 <div class="jumbotron">
     <div class="container">
-        <h1>Congratulations..! You have successfully deployed web application</h1>
-        <p style="color:#46C7C7;">This is a paragraph.</p>
+        <h1><p style="color:#306754;">Congratulations..! You have successfully deployed web application</p></h1>
         
         <p><b>---ABHIJEET KARLEKAR (BE-IT *DevOps Engineer*)</b></p>
-        <p><a class="btn btn-primary btn-lg" role="button">Learn more &raquo;</a></p>
+        <p><a class="btn btn-primary btn-lg" role="button">Know more about me&raquo;</a></p>
     </div>
 </div>
 
@@ -73,7 +72,7 @@
             <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
         </div>
         <div class="col-md-4">
-            <h2>portuguese</h2>
+            <h2>Portuguese</h2>
             <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
             <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
         </div>
