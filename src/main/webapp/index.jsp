@@ -53,7 +53,7 @@
     <div class="container">
         <h1>Congratulations..! You have successfully deployed web application</h1>
         
-        <p><b>---ABHIJEET KARLEKAR (BE-IT *DevOps Engineer*)</b></p>
+        <p><b>---KISHOR S PATIL (BE-ELECTR. *DevOps Engineer*)</b></p>
         <p><a class="btn btn-primary btn-lg" role="button">Know more about me&raquo;</a></p>
     </div>
 </div>
