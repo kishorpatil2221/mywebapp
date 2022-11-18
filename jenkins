@@ -1,0 +1,15 @@
+pipeline {
+    agent any
+    parameters {
+        choice(name: 'CHOICE', choices: ['Build-Env-Branch1'], description: 'successfully build in build env')
+       
+    }
+    stages {
+        stage('Build') {
+            steps {
+                echo "code from ${params.CHOICE}"
+                echo "Your code is successfully Build"
+            }
+        }
+    }
+}
